@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Digitization of Manufacturing Plant**
+- 🔭 I’m currently working on **Dealer Management System (DMS)**
 
-- 🌱 I’m currently learning **Spring Boot, React, MongoDB**
+- 🌱 I’m currently learning **Docker, Angular, React, MongoDB**
 
-- 💬 Ask me about **react, NoSQL, node**
+- 💬 Ask me about **Spring Boot, Spring MVC, Microservice, MySql, Angular**
 
 - 📫 How to reach me **maheshkumarnit96@gmail.com**
 
